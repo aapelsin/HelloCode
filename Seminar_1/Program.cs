@@ -5,5 +5,5 @@
 // -7 -> 49
 Console.Write("Введите число ");
 int num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(num * num);
+Console.WriteLine("Квадрат числа "+ num+ " равен " + num*num);
 
